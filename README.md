@@ -1,2 +1,4 @@
 # covid19_spreading
-Spread of COVID 19
+
+
+To work geopandas properly use install guide from main site: https://geopandas.org/install.html
