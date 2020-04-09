@@ -22,4 +22,5 @@ sudo apt-get install ffmpeg
 </code>
 <br><br>
 <code>ffmpeg -framerate 30 -pattern_type glob -i '*.png' -c:v libx264 -pix_fmt yuv420p out.mp4</code><br><br>
-Example for 8.4.20:
+Example for 8.4.20:<br>
+https://www.youtube.com/watch?v=LpIXHKWJ-ho
