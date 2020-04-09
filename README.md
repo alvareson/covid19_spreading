@@ -14,7 +14,7 @@ This PPA contains packages for Ubuntu 18.04 (Bionic) and 16.04 LTS (Xenial) only
 <br>
 <br>
 <code>
-sudo apt-get update<br>
+sudo apt-get update\n
 sudo apt-get install ffmpeg
 </code>
 <br><br>
